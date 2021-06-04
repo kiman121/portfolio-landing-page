@@ -2,7 +2,7 @@ body {
   font-family: nexa;
   line-height: 1.6;
 }
-img{
+img {
   height: 90%;
   width: 100%;
 }
@@ -15,21 +15,37 @@ img{
   margin: 0px;
   text-align: center;
 }
-.profile-stub {
-  background-color: lightblue;
+.profile-stub,
+.aboutme-header,
+.background-header {
   margin-bottom: 5px;
   padding-top: 5px;
+}
+.profile-stub {
+  background-color: #87a7b3;
 }
 .profile-stub h4 {
   font-size: 20px;
 }
 .profile-stub,
-.profile-stub-details {
+.profile-stub-details,
+.aboutme-header,
+.aboutme-details,
+.background-header,
+.background-details {
   margin-left: 14px;
   padding-left: 0px;
 }
-.profile-stub-details {
-  border-top:1px solid #000;
+.profile-stub-details,
+.aboutme-details,
+.background-details {
+  border-top: 1px solid #000;
   padding-top: 14px;
   padding-bottom: 14px;
+}
+.aboutme-header {
+  background-color: #cdc7be;
+}
+.background-header{
+  background-color: #e1f1dd;
 }
