@@ -4,7 +4,7 @@
 ## Description
 This landing page was designed to serve as profile/protfolio and a practicaly implementation of HTML, CSS and Bootstrap concepts learnt in class.
 ## Demo
-Here is a working live demo : https://kiman121.github.io/makazi-shelter/
+Here is a working live demo : https://kiman121.github.io/portfolio-landing-page/
 ## Setup/Installation Requirements
 * Clone the repository (repo).
 ```
