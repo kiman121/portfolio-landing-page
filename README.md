@@ -6,12 +6,12 @@ This landing page was designed to serve as profile/protfolio and a practicaly im
 ## Demo
 Here is a working live demo : https://kiman121.github.io/makazi-shelter/
 ## Setup/Installation Requirements
-* Clone the repository (repo)
+* Clone the repository (repo).
 ```
 git clone https://github.com/kiman121/portfolio-landing-page.git
 ```
-* Open the project on VS Code
-* Open the project on live server
+* Open the project on VS Code or any editor of choice.
+* Open the project on live server.
 ## Known Bugs
 No known bugs yet
 ## Technologies Used
