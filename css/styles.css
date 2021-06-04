@@ -17,7 +17,8 @@ img {
 }
 .profile-stub,
 .aboutme-header,
-.background-header {
+.background-header,
+.interests-hobbies-skills-header {
   margin-bottom: 5px;
   padding-top: 5px;
 }
@@ -32,14 +33,17 @@ img {
 .aboutme-header,
 .aboutme-details,
 .background-header,
-.background-details {
+.background-details,
+.interests-hobbies-skills-header,
+.interests-hobbies-skills-details {
   margin-left: 14px;
   padding-left: 0px;
 }
 .profile-stub-details,
 .aboutme-details,
 .background-details,
-.experience-details {
+.experience-details,
+.interests-hobbies-skills-details {
   border-top: 1px solid #000;
   padding-top: 14px;
   padding-bottom: 14px;
@@ -47,12 +51,13 @@ img {
 .aboutme-header {
   background-color: #cdc7be;
 }
-.background-header{
+.background-header,
+.interests-hobbies-skills-header {
   background-color: #e1f1dd;
 }
-.experience-header{
+.experience-header {
   padding-bottom: 0px;
 }
-.experience-details{
+.experience-details {
   margin-left: 2px;
 }
