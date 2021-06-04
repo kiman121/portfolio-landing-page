@@ -61,3 +61,7 @@ img {
 .experience-details {
   margin-left: 2px;
 }
+.text-italic-bold {
+  font-style: italic;
+  font-weight: bold;
+}
