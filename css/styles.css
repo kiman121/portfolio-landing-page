@@ -38,7 +38,8 @@ img {
 }
 .profile-stub-details,
 .aboutme-details,
-.background-details {
+.background-details,
+.experience-details {
   border-top: 1px solid #000;
   padding-top: 14px;
   padding-bottom: 14px;
@@ -48,4 +49,10 @@ img {
 }
 .background-header{
   background-color: #e1f1dd;
+}
+.experience-header{
+  padding-bottom: 0px;
+}
+.experience-details{
+  margin-left: 2px;
 }
